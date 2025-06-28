@@ -52,10 +52,10 @@ Layout:
 
 ```
 +----------------------------+---------------------------+
-| Inode Bitmap (4 KB)       | 1024 entries (int[1024])  |
-| Data Block Bitmap (4 KB)  | 1024 entries (int[1024])  |
-| Inode Table (4096 KB)     | 1024 inodes × 4 KB each   |
-| Data Blocks (4096 KB)     | 1024 blocks × 4 KB each   |
+| Inode Bitmap (4 KB)        | 1024 entries (int[1024])  |
+| Data Block Bitmap (4 KB)   | 1024 entries (int[1024])  |
+| Inode Table (4096 KB)      | 1024 inodes × 4 KB each   |
+| Data Blocks (4096 KB)      | 1024 blocks × 4 KB each   |
 +----------------------------+---------------------------+
 ```
 
