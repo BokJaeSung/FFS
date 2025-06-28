@@ -17,7 +17,7 @@ The system is **flat**, meaning there is no directory hierarchy. All files exist
 Compile and execute:
 
 ```bash
-gcc -o ffs ffs.c
+make
 ./ffs
 ```
 
