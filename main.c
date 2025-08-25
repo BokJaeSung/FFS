@@ -25,6 +25,7 @@ int *data_bitmap;
 unsigned char *inode_table;
 unsigned char *data_blocks;
 
+
 typedef struct
 {
     int type; // 0 = metadata inode, 1 = indirect block inode
